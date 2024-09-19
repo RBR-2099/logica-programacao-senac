@@ -1,3 +1,3 @@
 # logica-programacao-senac
 
-projeto de estudos do curso 3000 talentos ti do senac
+Projeto de estudos do curso 3000 Talentos TI do SENAC
